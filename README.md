@@ -19,6 +19,7 @@ node assets_generator.js -s fonts
 ```
 
 the dart class output will be under `/lib/constant/assets.dart`
+you can change it inside the script it self.
 
 Output example
 
